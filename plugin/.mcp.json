@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "jary": {
+      "type": "http",
+      "url": "${JARY_MCP_URL:-https://api.jary.dev/mcp/messages}"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "jary",
+  "owner": { "name": "Jary" },
+  "metadata": {
+    "description": "Private Jary tooling for Claude Code. Install from the monorepo checkout — nothing is published."
+  },
+  "plugins": [
+    {
+      "name": "jary",
+      "source": "./plugin",
+      "description": "Sync your codebase with Jary over MCP — refine ideas, log features/tasks, and push an end-to-end QA plan without leaving your editor."
+    }
+  ]
+}

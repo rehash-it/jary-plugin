@@ -1,0 +1,7 @@
+{
+  "name": "jary",
+  "version": "0.1.0",
+  "description": "Sync your codebase with Jary over MCP — refine ideas, log features/tasks, and push an end-to-end QA plan without leaving your editor.",
+  "author": { "name": "Jary" },
+  "keywords": ["jary", "mcp", "backlog", "qa", "product-management"]
+}
